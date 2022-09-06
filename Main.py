@@ -14,7 +14,7 @@ class Stack:
   def pop(self) -> None:
     # Write your code here
 
-  def status(self):
+  def status(self)
     """
     It prints all the elements of stack.
     """
